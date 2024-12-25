@@ -12,7 +12,6 @@ What to do, what to do. I decided that going the route of sourcing all these gam
 
 ## Showcase:
 ![showcase1](.Readme_Assets/showcase1.jpg)
-![showcase2](.Readme_Assets/showcase2.jpg)
 
 Cue these self-made cassette tape covers. With a little bit of photoshop magic and some old cassette tape cases lying around, you can make some wonderful things! These cassette tape cases offer multiple benefits to the original boxes of games.
 First of all, they are cheap. They can be had for a coupe of bucks at any second hand store and some people even give them away for free!
@@ -30,8 +29,6 @@ Finally, what ‘digital’ media to use them for, and how? Cue the Zaparoo proj
 If you want to learn more about how to do this with your own, follow this guide: https://wiki.zaparoo.org/Getting_started
 
 ![nfccards](.Readme_Assets/nfccards.jpg)
-
-_source: timeextension.com_
 
 Luckily for us, all different kinds of shaped and sized NFC cards, chips, tags etc. fit in these cassette tape cases! People are even making inserts so they can store their NFC cards in these cases so they have a snug fit without rattling. 
 
