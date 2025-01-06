@@ -1,5 +1,6 @@
-## Update December 25, 2024:
-This project is a reboot of my previous [TapToCasseteCovers](https://github.com/Anime0t4ku/TapToCassetteCovers) project.
+## Update January 6, 2025:
+This project is a reboot of my previous TapToCasseteCovers Project.
+TapToCassetteCovers is no longer maintained, you can however download the archived legacy release in releases.
 
 
 # Cassette-GameCovers
