@@ -1,8 +1,3 @@
-## Update January 6, 2025:
-This project is a reboot of my previous TapToCasseteCovers Project.
-TapToCassetteCovers is no longer maintained, you can however download the archived zip file with all the old designs and templates in releases.
-
-
 # Cassette-GameCovers
 
 ## Intro:
